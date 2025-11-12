@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\\u041B\u0430\u04311\\TP-KB-241-Hlib-Dyzyniuryk\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u041B\u0430\u04311\\TP-KB-241-Hlib-Dyzyniuryk\\lab_01\\lab_01.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:lab_01\\lab_01.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u041B\u0430\u04311\\TP-KB-241-Hlib-Dyzyniuryk\\topic_04\\task1-2.py||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:topic_04\\task1-2.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
@@ -71,19 +75,31 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "task1-2.py",
-              "DocumentMoniker": "D:\\\u041B\u0430\u04311\\TP-KB-241-Hlib-Dyzyniuryk\\topic_04\\task1-2.py",
-              "RelativeDocumentMoniker": "topic_04\\task1-2.py",
-              "ToolTip": "D:\\\u041B\u0430\u04311\\TP-KB-241-Hlib-Dyzyniuryk\\topic_04\\task1-2.py",
-              "RelativeToolTip": "topic_04\\task1-2.py",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAwC0AAAAAAAAAAAAAAA==",
+              "Title": "lab_01.py",
+              "DocumentMoniker": "D:\\\u041B\u0430\u04311\\TP-KB-241-Hlib-Dyzyniuryk\\lab_01\\lab_01.py",
+              "RelativeDocumentMoniker": "lab_01\\lab_01.py",
+              "ToolTip": "D:\\\u041B\u0430\u04311\\TP-KB-241-Hlib-Dyzyniuryk\\lab_01\\lab_01.py",
+              "RelativeToolTip": "lab_01\\lab_01.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2025-11-12T18:14:32.348Z",
+              "WhenOpened": "2025-11-12T19:25:39.13Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "task1-2.py",
+              "DocumentMoniker": "D:\\\u041B\u0430\u04311\\TP-KB-241-Hlib-Dyzyniuryk\\topic_04\\task1-2.py",
+              "RelativeDocumentMoniker": "topic_04\\task1-2.py",
+              "ToolTip": "D:\\\u041B\u0430\u04311\\TP-KB-241-Hlib-Dyzyniuryk\\topic_04\\task1-2.py",
+              "RelativeToolTip": "topic_04\\task1-2.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-11-12T18:14:32.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "task004.py",
               "DocumentMoniker": "D:\\\u041B\u0430\u04311\\TP-KB-241-Hlib-Dyzyniuryk\\topic_03\\task004.py",
               "RelativeDocumentMoniker": "topic_03\\task004.py",
@@ -91,12 +107,11 @@
               "RelativeToolTip": "topic_03\\task004.py",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2025-11-12T17:12:28.329Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-12T17:12:28.329Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "task003.py",
               "DocumentMoniker": "D:\\\u041B\u0430\u04311\\TP-KB-241-Hlib-Dyzyniuryk\\topic_03\\task003.py",
               "RelativeDocumentMoniker": "topic_03\\task003.py",
@@ -104,12 +119,11 @@
               "RelativeToolTip": "topic_03\\task003.py",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2025-11-12T17:11:42.797Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-12T17:11:42.797Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "task002.py",
               "DocumentMoniker": "D:\\\u041B\u0430\u04311\\TP-KB-241-Hlib-Dyzyniuryk\\topic_03\\task002.py",
               "RelativeDocumentMoniker": "topic_03\\task002.py",
@@ -117,12 +131,11 @@
               "RelativeToolTip": "topic_03\\task002.py",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2025-11-12T17:10:19.865Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-12T17:10:19.865Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "task001.py",
               "DocumentMoniker": "D:\\\u041B\u0430\u04311\\TP-KB-241-Hlib-Dyzyniuryk\\topic_03\\task001.py",
               "RelativeDocumentMoniker": "topic_03\\task001.py",
@@ -130,12 +143,11 @@
               "RelativeToolTip": "topic_03\\task001.py",
               "ViewState": "AgIAAAgAAAAAAAAAAAAAwCkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2025-11-12T17:08:30.723Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-12T17:08:30.723Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "task03.py",
               "DocumentMoniker": "D:\\\u041B\u0430\u04311\\TP-KB-241-Hlib-Dyzyniuryk\\topic_02\\task03.py",
               "RelativeDocumentMoniker": "topic_02\\task03.py",
@@ -143,12 +155,11 @@
               "RelativeToolTip": "topic_02\\task03.py",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2025-11-11T18:55:43.981Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-11T18:55:43.981Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "task02.py",
               "DocumentMoniker": "D:\\\u041B\u0430\u04311\\TP-KB-241-Hlib-Dyzyniuryk\\topic_02\\task02.py",
               "RelativeDocumentMoniker": "topic_02\\task02.py",
@@ -156,12 +167,11 @@
               "RelativeToolTip": "topic_02\\task02.py",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2025-11-11T18:50:49.089Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-11T18:50:49.089Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "task01.py",
               "DocumentMoniker": "D:\\\u041B\u0430\u04311\\TP-KB-241-Hlib-Dyzyniuryk\\topic_02\\task01.py",
               "RelativeDocumentMoniker": "topic_02\\task01.py",
@@ -169,12 +179,11 @@
               "RelativeToolTip": "topic_02\\task01.py",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2025-11-11T18:43:09.516Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-11T18:43:09.516Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "task3.py",
               "DocumentMoniker": "D:\\\u041B\u0430\u04311\\TP-KB-241-Hlib-Dyzyniuryk\\topic_01\\task3.py",
               "RelativeDocumentMoniker": "topic_01\\task3.py",
@@ -182,12 +191,11 @@
               "RelativeToolTip": "topic_01\\task3.py",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2025-09-18T19:05:01.75Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-18T19:05:01.75Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "task4.py",
               "DocumentMoniker": "D:\\\u041B\u0430\u04311\\TP-KB-241-Hlib-Dyzyniuryk\\topic_02\\task4.py",
               "RelativeDocumentMoniker": "topic_02\\task4.py",
@@ -198,7 +206,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "task2.py",
               "DocumentMoniker": "D:\\\u041B\u0430\u04311\\TP-KB-241-Hlib-Dyzyniuryk\\topic_01\\task2.py",
               "RelativeDocumentMoniker": "topic_01\\task2.py",
@@ -206,12 +214,11 @@
               "RelativeToolTip": "topic_01\\task2.py",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2025-09-17T20:45:35.451Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-17T20:45:35.451Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "task1.py",
               "DocumentMoniker": "D:\\\u041B\u0430\u04311\\TP-KB-241-Hlib-Dyzyniuryk\\topic_01\\task1.py",
               "RelativeDocumentMoniker": "topic_01\\task1.py",
@@ -219,12 +226,11 @@
               "RelativeToolTip": "topic_01\\task1.py",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2025-09-17T20:45:05.848Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-17T20:45:05.848Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "README.md",
               "DocumentMoniker": "D:\\\u041B\u0430\u04311\\TP-KB-241-Hlib-Dyzyniuryk\\README.md",
               "RelativeDocumentMoniker": "README.md",
@@ -232,8 +238,7 @@
               "RelativeToolTip": "README.md",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-09-17T20:41:23.916Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-17T20:41:23.916Z"
             }
           ]
         }
