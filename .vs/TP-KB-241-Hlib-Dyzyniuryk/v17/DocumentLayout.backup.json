@@ -3,24 +3,20 @@
   "WorkspaceRootPath": "D:\\\u041B\u0430\u04311\\TP-KB-241-Hlib-Dyzyniuryk\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u041B\u0430\u04311\\TP-KB-241-Hlib-Dyzyniuryk\\topic_06\\sorting.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:topic_06\\sorting.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u041B\u0430\u04311\\TP-KB-241-Hlib-Dyzyniuryk\\topic_07\\OOPCalculator\\students_sorting.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:topic_07\\OOPCalculator\\students_sorting.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u041B\u0430\u04311\\TP-KB-241-Hlib-Dyzyniuryk\\topic_06\\Calculator\\calc1.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:topic_06\\Calculator\\calc1.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u041B\u0430\u04311\\TP-KB-241-Hlib-Dyzyniuryk\\topic_07\\OOPCalculator\\calculator.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:topic_07\\OOPCalculator\\calculator.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u041B\u0430\u04311\\TP-KB-241-Hlib-Dyzyniuryk\\topic_06\\Calculator\\operations1.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:topic_06\\Calculator\\operations1.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u041B\u0430\u04311\\TP-KB-241-Hlib-Dyzyniuryk\\topic_07\\OOPCalculator\\operations2.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:topic_07\\OOPCalculator\\operations2.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u041B\u0430\u04311\\TP-KB-241-Hlib-Dyzyniuryk\\topic_06\\Calculator\\functions1.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:topic_06\\Calculator\\functions1.py||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u041B\u0430\u04311\\TP-KB-241-Hlib-Dyzyniuryk\\topic_05\\Calculator\\calc.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:topic_05\\Calculator\\calc.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u041B\u0430\u04311\\TP-KB-241-Hlib-Dyzyniuryk\\topic_07\\OOPCalculator\\main.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:topic_07\\OOPCalculator\\main.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,66 +35,53 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "sorting.py",
-              "DocumentMoniker": "D:\\\u041B\u0430\u04311\\TP-KB-241-Hlib-Dyzyniuryk\\topic_06\\sorting.py",
-              "RelativeDocumentMoniker": "topic_06\\sorting.py",
-              "ToolTip": "D:\\\u041B\u0430\u04311\\TP-KB-241-Hlib-Dyzyniuryk\\topic_06\\sorting.py",
-              "RelativeToolTip": "topic_06\\sorting.py",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAATAAAAAAAAAA==",
+              "Title": "students_sorting.py",
+              "DocumentMoniker": "D:\\\u041B\u0430\u04311\\TP-KB-241-Hlib-Dyzyniuryk\\topic_07\\OOPCalculator\\students_sorting.py",
+              "RelativeDocumentMoniker": "topic_07\\OOPCalculator\\students_sorting.py",
+              "ToolTip": "D:\\\u041B\u0430\u04311\\TP-KB-241-Hlib-Dyzyniuryk\\topic_07\\OOPCalculator\\students_sorting.py",
+              "RelativeToolTip": "topic_07\\OOPCalculator\\students_sorting.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2025-12-16T19:27:53.209Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "calc.py",
-              "DocumentMoniker": "D:\\\u041B\u0430\u04311\\TP-KB-241-Hlib-Dyzyniuryk\\topic_05\\Calculator\\calc.py",
-              "RelativeDocumentMoniker": "topic_05\\Calculator\\calc.py",
-              "ToolTip": "D:\\\u041B\u0430\u04311\\TP-KB-241-Hlib-Dyzyniuryk\\topic_05\\Calculator\\calc.py",
-              "RelativeToolTip": "topic_05\\Calculator\\calc.py",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2025-12-16T19:17:49.013Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "functions1.py",
-              "DocumentMoniker": "D:\\\u041B\u0430\u04311\\TP-KB-241-Hlib-Dyzyniuryk\\topic_06\\Calculator\\functions1.py",
-              "RelativeDocumentMoniker": "topic_06\\Calculator\\functions1.py",
-              "ToolTip": "D:\\\u041B\u0430\u04311\\TP-KB-241-Hlib-Dyzyniuryk\\topic_06\\Calculator\\functions1.py",
-              "RelativeToolTip": "topic_06\\Calculator\\functions1.py",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2025-12-16T19:16:07.252Z",
+              "WhenOpened": "2025-12-16T21:01:39.444Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "operations1.py",
-              "DocumentMoniker": "D:\\\u041B\u0430\u04311\\TP-KB-241-Hlib-Dyzyniuryk\\topic_06\\Calculator\\operations1.py",
-              "RelativeDocumentMoniker": "topic_06\\Calculator\\operations1.py",
-              "ToolTip": "D:\\\u041B\u0430\u04311\\TP-KB-241-Hlib-Dyzyniuryk\\topic_06\\Calculator\\operations1.py",
-              "RelativeToolTip": "topic_06\\Calculator\\operations1.py",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Title": "operations2.py",
+              "DocumentMoniker": "D:\\\u041B\u0430\u04311\\TP-KB-241-Hlib-Dyzyniuryk\\topic_07\\OOPCalculator\\operations2.py",
+              "RelativeDocumentMoniker": "topic_07\\OOPCalculator\\operations2.py",
+              "ToolTip": "D:\\\u041B\u0430\u04311\\TP-KB-241-Hlib-Dyzyniuryk\\topic_07\\OOPCalculator\\operations2.py",
+              "RelativeToolTip": "topic_07\\OOPCalculator\\operations2.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2025-12-16T19:15:44.035Z",
+              "WhenOpened": "2025-12-16T20:58:25.619Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "calc1.py",
-              "DocumentMoniker": "D:\\\u041B\u0430\u04311\\TP-KB-241-Hlib-Dyzyniuryk\\topic_06\\Calculator\\calc1.py",
-              "RelativeDocumentMoniker": "topic_06\\Calculator\\calc1.py",
-              "ToolTip": "D:\\\u041B\u0430\u04311\\TP-KB-241-Hlib-Dyzyniuryk\\topic_06\\Calculator\\calc1.py",
-              "RelativeToolTip": "topic_06\\Calculator\\calc1.py",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAbAAAAAAAAAA==",
+              "Title": "calculator.py",
+              "DocumentMoniker": "D:\\\u041B\u0430\u04311\\TP-KB-241-Hlib-Dyzyniuryk\\topic_07\\OOPCalculator\\calculator.py",
+              "RelativeDocumentMoniker": "topic_07\\OOPCalculator\\calculator.py",
+              "ToolTip": "D:\\\u041B\u0430\u04311\\TP-KB-241-Hlib-Dyzyniuryk\\topic_07\\OOPCalculator\\calculator.py",
+              "RelativeToolTip": "topic_07\\OOPCalculator\\calculator.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2025-12-16T19:15:21.414Z",
+              "WhenOpened": "2025-12-16T20:57:55.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "main.py",
+              "DocumentMoniker": "D:\\\u041B\u0430\u04311\\TP-KB-241-Hlib-Dyzyniuryk\\topic_07\\OOPCalculator\\main.py",
+              "RelativeDocumentMoniker": "topic_07\\OOPCalculator\\main.py",
+              "ToolTip": "D:\\\u041B\u0430\u04311\\TP-KB-241-Hlib-Dyzyniuryk\\topic_07\\OOPCalculator\\main.py",
+              "RelativeToolTip": "topic_07\\OOPCalculator\\main.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-12-16T20:57:51.157Z",
               "EditorCaption": ""
             }
           ]
