@@ -8,11 +8,16 @@ venv/
 
 # Logs
 *.log
+calculator.log
 
 # IDE
 .vscode/
 .idea/
+.vs/
 
 # OS files
 .DS_Store
 Thumbs.db
+
+# Documentation
+README.md
