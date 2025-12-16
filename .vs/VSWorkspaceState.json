@@ -1,15 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\lab_01",
     "\\lab_02",
     "\\topic_01",
     "\\topic_02",
     "\\topic_03",
     "\\topic_04",
     "\\topic_05",
-    "\\topic_05\\Calculator"
+    "\\topic_05\\Calculator",
+    "\\topic_06",
+    "\\topic_06\\Calculator"
   ],
-  "SelectedNode": "\\topic_05\\Calculator\\calc.py",
+  "SelectedNode": "\\topic_06\\sorting.py",
   "PreviewInSolutionExplorer": false
 }
