@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\\u041B\u0430\u04311\\TP-KB-241-Hlib-Dyzyniuryk\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u041B\u0430\u04311\\TP-KB-241-Hlib-Dyzyniuryk\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u041B\u0430\u04311\\TP-KB-241-Hlib-Dyzyniuryk\\topic_07\\OOPCalculator\\students_sorting.py||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:topic_07\\OOPCalculator\\students_sorting.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
@@ -35,6 +39,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "D:\\\u041B\u0430\u04311\\TP-KB-241-Hlib-Dyzyniuryk\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "D:\\\u041B\u0430\u04311\\TP-KB-241-Hlib-Dyzyniuryk\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-16T21:23:10.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "students_sorting.py",
               "DocumentMoniker": "D:\\\u041B\u0430\u04311\\TP-KB-241-Hlib-Dyzyniuryk\\topic_07\\OOPCalculator\\students_sorting.py",
               "RelativeDocumentMoniker": "topic_07\\OOPCalculator\\students_sorting.py",
@@ -47,7 +64,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "operations2.py",
               "DocumentMoniker": "D:\\\u041B\u0430\u04311\\TP-KB-241-Hlib-Dyzyniuryk\\topic_07\\OOPCalculator\\operations2.py",
               "RelativeDocumentMoniker": "topic_07\\OOPCalculator\\operations2.py",
@@ -55,12 +72,11 @@
               "RelativeToolTip": "topic_07\\OOPCalculator\\operations2.py",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2025-12-16T20:58:25.619Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-16T20:58:25.619Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "calculator.py",
               "DocumentMoniker": "D:\\\u041B\u0430\u04311\\TP-KB-241-Hlib-Dyzyniuryk\\topic_07\\OOPCalculator\\calculator.py",
               "RelativeDocumentMoniker": "topic_07\\OOPCalculator\\calculator.py",
@@ -68,12 +84,11 @@
               "RelativeToolTip": "topic_07\\OOPCalculator\\calculator.py",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2025-12-16T20:57:55.319Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-16T20:57:55.319Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "main.py",
               "DocumentMoniker": "D:\\\u041B\u0430\u04311\\TP-KB-241-Hlib-Dyzyniuryk\\topic_07\\OOPCalculator\\main.py",
               "RelativeDocumentMoniker": "topic_07\\OOPCalculator\\main.py",
@@ -81,8 +96,7 @@
               "RelativeToolTip": "topic_07\\OOPCalculator\\main.py",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2025-12-16T20:57:51.157Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-16T20:57:51.157Z"
             }
           ]
         }
