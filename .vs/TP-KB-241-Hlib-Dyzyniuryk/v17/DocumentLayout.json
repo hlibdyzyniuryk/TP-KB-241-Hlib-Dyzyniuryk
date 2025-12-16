@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "D:\\\u041B\u0430\u04311\\TP-KB-241-Hlib-Dyzyniuryk\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u041B\u0430\u04311\\TP-KB-241-Hlib-Dyzyniuryk\\topic_05\\Calculator\\calc.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:topic_05\\Calculator\\calc.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u041B\u0430\u04311\\TP-KB-241-Hlib-Dyzyniuryk\\topic_05\\Calculator\\operations.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:topic_05\\Calculator\\operations.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u041B\u0430\u04311\\TP-KB-241-Hlib-Dyzyniuryk\\topic_05\\Calculator\\functions.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:topic_05\\Calculator\\functions.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u041B\u0430\u04311\\TP-KB-241-Hlib-Dyzyniuryk\\topic_05\\currency_converter.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:topic_05\\currency_converter.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u041B\u0430\u04311\\TP-KB-241-Hlib-Dyzyniuryk\\topic_05\\rock_paper_scissors.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:topic_05\\rock_paper_scissors.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u041B\u0430\u04311\\TP-KB-241-Hlib-Dyzyniuryk\\lab_02\\lab2.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:lab_02\\lab2.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
@@ -87,6 +107,70 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "calc.py",
+              "DocumentMoniker": "D:\\\u041B\u0430\u04311\\TP-KB-241-Hlib-Dyzyniuryk\\topic_05\\Calculator\\calc.py",
+              "RelativeDocumentMoniker": "topic_05\\Calculator\\calc.py",
+              "ToolTip": "D:\\\u041B\u0430\u04311\\TP-KB-241-Hlib-Dyzyniuryk\\topic_05\\Calculator\\calc.py",
+              "RelativeToolTip": "topic_05\\Calculator\\calc.py",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAkwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-11-13T19:49:02.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "operations.py",
+              "DocumentMoniker": "D:\\\u041B\u0430\u04311\\TP-KB-241-Hlib-Dyzyniuryk\\topic_05\\Calculator\\operations.py",
+              "RelativeDocumentMoniker": "topic_05\\Calculator\\operations.py",
+              "ToolTip": "D:\\\u041B\u0430\u04311\\TP-KB-241-Hlib-Dyzyniuryk\\topic_05\\Calculator\\operations.py",
+              "RelativeToolTip": "topic_05\\Calculator\\operations.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-11-13T19:48:37.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "functions.py",
+              "DocumentMoniker": "D:\\\u041B\u0430\u04311\\TP-KB-241-Hlib-Dyzyniuryk\\topic_05\\Calculator\\functions.py",
+              "RelativeDocumentMoniker": "topic_05\\Calculator\\functions.py",
+              "ToolTip": "D:\\\u041B\u0430\u04311\\TP-KB-241-Hlib-Dyzyniuryk\\topic_05\\Calculator\\functions.py",
+              "RelativeToolTip": "topic_05\\Calculator\\functions.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-11-13T19:48:21.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "currency_converter.py",
+              "DocumentMoniker": "D:\\\u041B\u0430\u04311\\TP-KB-241-Hlib-Dyzyniuryk\\topic_05\\currency_converter.py",
+              "RelativeDocumentMoniker": "topic_05\\currency_converter.py",
+              "ToolTip": "D:\\\u041B\u0430\u04311\\TP-KB-241-Hlib-Dyzyniuryk\\topic_05\\currency_converter.py",
+              "RelativeToolTip": "topic_05\\currency_converter.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-11-13T19:41:58.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "rock_paper_scissors.py",
+              "DocumentMoniker": "D:\\\u041B\u0430\u04311\\TP-KB-241-Hlib-Dyzyniuryk\\topic_05\\rock_paper_scissors.py",
+              "RelativeDocumentMoniker": "topic_05\\rock_paper_scissors.py",
+              "ToolTip": "D:\\\u041B\u0430\u04311\\TP-KB-241-Hlib-Dyzyniuryk\\topic_05\\rock_paper_scissors.py",
+              "RelativeToolTip": "topic_05\\rock_paper_scissors.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-11-13T19:41:44.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "lab2.csv",
               "DocumentMoniker": "D:\\\u041B\u0430\u04311\\TP-KB-241-Hlib-Dyzyniuryk\\lab_02\\lab2.csv",
               "RelativeDocumentMoniker": "lab_02\\lab2.csv",
@@ -94,12 +178,11 @@
               "RelativeToolTip": "lab_02\\lab2.csv",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
-              "WhenOpened": "2025-11-12T19:48:41.679Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-12T19:48:41.679Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "lab_02_test.py",
               "DocumentMoniker": "D:\\\u041B\u0430\u04311\\TP-KB-241-Hlib-Dyzyniuryk\\lab_02\\lab_02_test.py",
               "RelativeDocumentMoniker": "lab_02\\lab_02_test.py",
@@ -107,12 +190,11 @@
               "RelativeToolTip": "lab_02\\lab_02_test.py",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2025-11-12T19:48:16.904Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-12T19:48:16.904Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "lab_02.py",
               "DocumentMoniker": "D:\\\u041B\u0430\u04311\\TP-KB-241-Hlib-Dyzyniuryk\\lab_02\\lab_02.py",
               "RelativeDocumentMoniker": "lab_02\\lab_02.py",
@@ -120,12 +202,11 @@
               "RelativeToolTip": "lab_02\\lab_02.py",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2025-11-12T19:48:00.342Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-12T19:48:00.342Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "lab_01.py",
               "DocumentMoniker": "D:\\\u041B\u0430\u04311\\TP-KB-241-Hlib-Dyzyniuryk\\lab_01\\lab_01.py",
               "RelativeDocumentMoniker": "lab_01\\lab_01.py",
@@ -137,7 +218,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "task1-2.py",
               "DocumentMoniker": "D:\\\u041B\u0430\u04311\\TP-KB-241-Hlib-Dyzyniuryk\\topic_04\\task1-2.py",
               "RelativeDocumentMoniker": "topic_04\\task1-2.py",
@@ -149,7 +230,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "task004.py",
               "DocumentMoniker": "D:\\\u041B\u0430\u04311\\TP-KB-241-Hlib-Dyzyniuryk\\topic_03\\task004.py",
               "RelativeDocumentMoniker": "topic_03\\task004.py",
@@ -161,7 +242,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "task003.py",
               "DocumentMoniker": "D:\\\u041B\u0430\u04311\\TP-KB-241-Hlib-Dyzyniuryk\\topic_03\\task003.py",
               "RelativeDocumentMoniker": "topic_03\\task003.py",
@@ -173,7 +254,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "task002.py",
               "DocumentMoniker": "D:\\\u041B\u0430\u04311\\TP-KB-241-Hlib-Dyzyniuryk\\topic_03\\task002.py",
               "RelativeDocumentMoniker": "topic_03\\task002.py",
@@ -185,7 +266,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "task001.py",
               "DocumentMoniker": "D:\\\u041B\u0430\u04311\\TP-KB-241-Hlib-Dyzyniuryk\\topic_03\\task001.py",
               "RelativeDocumentMoniker": "topic_03\\task001.py",
@@ -197,7 +278,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "task03.py",
               "DocumentMoniker": "D:\\\u041B\u0430\u04311\\TP-KB-241-Hlib-Dyzyniuryk\\topic_02\\task03.py",
               "RelativeDocumentMoniker": "topic_02\\task03.py",
@@ -209,7 +290,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "task02.py",
               "DocumentMoniker": "D:\\\u041B\u0430\u04311\\TP-KB-241-Hlib-Dyzyniuryk\\topic_02\\task02.py",
               "RelativeDocumentMoniker": "topic_02\\task02.py",
@@ -221,7 +302,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
               "Title": "task01.py",
               "DocumentMoniker": "D:\\\u041B\u0430\u04311\\TP-KB-241-Hlib-Dyzyniuryk\\topic_02\\task01.py",
               "RelativeDocumentMoniker": "topic_02\\task01.py",
@@ -233,7 +314,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 17,
               "Title": "task3.py",
               "DocumentMoniker": "D:\\\u041B\u0430\u04311\\TP-KB-241-Hlib-Dyzyniuryk\\topic_01\\task3.py",
               "RelativeDocumentMoniker": "topic_01\\task3.py",
@@ -245,7 +326,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 20,
               "Title": "task4.py",
               "DocumentMoniker": "D:\\\u041B\u0430\u04311\\TP-KB-241-Hlib-Dyzyniuryk\\topic_02\\task4.py",
               "RelativeDocumentMoniker": "topic_02\\task4.py",
@@ -256,7 +337,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 18,
               "Title": "task2.py",
               "DocumentMoniker": "D:\\\u041B\u0430\u04311\\TP-KB-241-Hlib-Dyzyniuryk\\topic_01\\task2.py",
               "RelativeDocumentMoniker": "topic_01\\task2.py",
@@ -268,7 +349,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 19,
               "Title": "task1.py",
               "DocumentMoniker": "D:\\\u041B\u0430\u04311\\TP-KB-241-Hlib-Dyzyniuryk\\topic_01\\task1.py",
               "RelativeDocumentMoniker": "topic_01\\task1.py",
@@ -280,7 +361,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 21,
               "Title": "README.md",
               "DocumentMoniker": "D:\\\u041B\u0430\u04311\\TP-KB-241-Hlib-Dyzyniuryk\\README.md",
               "RelativeDocumentMoniker": "README.md",

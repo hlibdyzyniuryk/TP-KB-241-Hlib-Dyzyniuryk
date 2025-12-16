@@ -6,8 +6,10 @@
     "\\topic_01",
     "\\topic_02",
     "\\topic_03",
-    "\\topic_04"
+    "\\topic_04",
+    "\\topic_05",
+    "\\topic_05\\Calculator"
   ],
-  "SelectedNode": "\\lab_02\\lab2.csv",
+  "SelectedNode": "\\topic_05\\Calculator\\calc.py",
   "PreviewInSolutionExplorer": false
 }
